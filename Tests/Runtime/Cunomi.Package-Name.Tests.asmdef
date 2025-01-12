@@ -1,0 +1,14 @@
+{
+    "name": "Cunomi.Package-Name.Tests",
+    "rootNamespace": "Cunomi.Package-Name",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

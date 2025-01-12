@@ -1,0 +1,23 @@
+{
+    "name": "com.cunomi.package-name",
+    "version": "1.0.0",
+    "displayName": "Package Name",
+    "description": "Package Description",
+    "unity": "6000.0",
+    "unityRelease": "31f1",
+    "documentationUrl": "https://cunomi.com/documentation",
+    "changelogUrl": "https://cunomi.com/changelog.html",
+    "licensesUrl": "https://cunomi.com/licensing.html",
+    "dependencies": {
+        "com.[company-name].[package-name]": "1.0.0"
+    },
+    "keywords": [
+        "keyword1",
+        "keyword2",
+        "keyword3"
+    ],
+    "author": {
+        "name": "Example Name",
+        "url": "https://www.cunomi.com"
+    }
+}
