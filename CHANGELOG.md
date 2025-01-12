@@ -1,3 +1,3 @@
-﻿## [1.0.0] - yyyy-mm-dd
+﻿## [1.0.0] - 12.01.2025
 ### Initial commit
 - Created a new Unity Package
