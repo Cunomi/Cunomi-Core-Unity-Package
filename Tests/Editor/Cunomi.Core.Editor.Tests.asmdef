@@ -1,6 +1,6 @@
 {
-    "name": "Cunomi.Package-Name",
-    "rootNamespace": "Cunomi.Package-Name",
+    "name": "Cunomi.Core.Editor.Tests",
+    "rootNamespace": "Cunomi.Core.Editor",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
