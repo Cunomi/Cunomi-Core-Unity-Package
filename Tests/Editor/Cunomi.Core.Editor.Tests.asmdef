@@ -2,7 +2,9 @@
     "name": "Cunomi.Core.Editor.Tests",
     "rootNamespace": "Cunomi.Core.Editor",
     "references": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
